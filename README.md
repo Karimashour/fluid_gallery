@@ -1,15 +1,18 @@
 # link preview :
 
-https://architecture-landing-page.vercel.app/
+https://karimashour.github.io/fluid_gallery/
 
 <img src="image.png"/>
 
 # tools :
 - html
-- tailwind css
-- react.js
+- css
+- javascript
+- bootstrap
+- font awesome
+- jquery
 
 
 
 # features
-- Architecture landing page using Tailwind CSS and React JS
+- user can show the images in colored or gray .
